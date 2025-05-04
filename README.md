@@ -3,23 +3,18 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=maryamirfan18&label=Profile%20views&color=0e75b6&style=flat" alt="maryamirfan18" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maryamirfan18" alt="maryamirfan18" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Development of a Blockchain-Based Cyber Threat Intelligence Platform**
 
 - 🌱 I’m currently learning **Hyperledger Fabric,and Advanced Web Pentesting**
 
-- 👯 I’m looking to collaborate on [Web Application Security / Pentesting Projects](🔗 [LinkedIn](https://www.linkedin.com/in/maryam-irfan-73069424b/))
+- 👯 I’m looking to collaborate on [Web Application Security / Pentesting Projects]🔗 [LinkedIn](https://www.linkedin.com/in/maryam-irfan-73069424b/)
 
-- 👨‍💻 All of my projects are available at [GitHub](https://github.com/maryamirfan18)](GitHub](https://github.com/maryamirfan18))
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/maryamirfan18)
 
 - 💬 Ask me about **Penetration Testing, Blockchain Security**
 
 - 📫 How to reach me **maryamirfan108@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zgFBI3Z6VgfEuhGW4a9RG4l_ePyR00kL/view](https://drive.google.com/file/d/1zgFBI3Z6VgfEuhGW4a9RG4l_ePyR00kL/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
