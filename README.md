@@ -32,6 +32,50 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <!-- Nessus -->
+<a href="https://www.tenable.com/products/nessus" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Nessus-0091DA?style=for-the-badge&logoColor=white" />
+</a>
+
+<!-- Burp Suite -->
+<a href="https://portswigger.net/burp" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logoColor=white" />
+</a>
+
+<!-- Autopsy -->
+<a href="https://www.sleuthkit.org/autopsy/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Autopsy-000000?style=for-the-badge&logoColor=white" />
+</a>
+
+<!-- Nmap -->
+<a href="https://nmap.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Nmap-00457C?style=for-the-badge&logoColor=white" />
+</a>
+
+<!-- OWASP ZAP -->
+<a href="https://www.zaproxy.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=for-the-badge&logoColor=white" />
+</a>
+
+<!-- Amass -->
+<a href="https://github.com/owasp-amass/amass" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Amass-2E2E2E?style=for-the-badge&logoColor=white" />
+</a>
+
+<!-- Wireshark -->
+<a href="https://www.wireshark.org/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logoColor=white" />
+</a>
+
+<!-- Metasploit -->
+<a href="https://www.metasploit.com/" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Metasploit-ED1C24?style=for-the-badge&logoColor=white" />
+</a>
+
+<!-- Hyperledger Fabric -->
+<a href="https://www.hyperledger.org/use/fabric" target="_blank" rel="noreferrer">
+  <img src="https://img.shields.io/badge/Hyperledger_Fabric-2F3134?style=for-the-badge&logo=hyperledger&logoColor=white" />
+</a>
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/>
   </a>
