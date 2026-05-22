@@ -11,7 +11,7 @@
       <ul>
         <li>🔭 I’m currently working in <strong>Meezan Bank</strong> as a <strong>Cyber Securit Analyst - Vulnerability Assessment and Penetration Testing</strong></li>
         <li>🔭 I Worked on <strong>Development of a Blockchain-Based Cyber Threat Intelligence Platform</strong></li>
-        <li>🌱 Learned learning <strong>Hyperledger Fabric, and Advanced Web Pentesting</strong></li>
+        <li>🌱 Learned <strong>Hyperledger Fabric, and Advanced Web Pentesting</strong></li>
         <li>👯 I’m looking to collaborate on <strong>Web Application Security / Pentesting Projects</strong> 🔗 <a href="https://www.linkedin.com/in/maryam-irfan-73069424b/">LinkedIn</a></li>
         <li>💬 Ask me about <strong>Penetration Testing, Blockchain Security</strong></li>
         <li>📫 How to reach me: <strong>maryamirfan108@gmail.com</strong></li>
