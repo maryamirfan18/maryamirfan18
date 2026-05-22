@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm MARYAM IRFAN</h1>
-<h3 align="center">💻 Cybersecurity Enthusiast | Pentester in Training | Blockchain Learner | HCIA-Datacom Certified</h3>
+<h3 align="center">💻 Cybersecurity Enthusiast | Cyber Security Analyst (VAPT) | Blockchain  | HCIA-Datacom Certified</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=maryamirfan18&label=Profile%20views&color=0e75b6&style=flat" alt="maryamirfan18" />
@@ -9,7 +9,8 @@
   <tr>
     <td>
       <ul>
-        <li>🔭 I’m currently working on <strong>Development of a Blockchain-Based Cyber Threat Intelligence Platform</strong></li>
+        <li>🔭 I’m currently working in <strong>Meezan Bank</strong> as a <strong>Cyber Securit Analyst - Vulnerability Assessment and Penetration Testing</strong></li>
+        <li>🔭 I Worked on <strong>Development of a Blockchain-Based Cyber Threat Intelligence Platform</strong></li>
         <li>🌱 I’m currently learning <strong>Hyperledger Fabric, and Advanced Web Pentesting</strong></li>
         <li>👯 I’m looking to collaborate on <strong>Web Application Security / Pentesting Projects</strong> 🔗 <a href="https://www.linkedin.com/in/maryam-irfan-73069424b/">LinkedIn</a></li>
         <li>💬 Ask me about <strong>Penetration Testing, Blockchain Security</strong></li>
